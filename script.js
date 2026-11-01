@@ -322,7 +322,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function startTimer() {
         if (isRunning) return;
 
-      
+        isRunning = true;
         endTime = Date.now() + remainingMs;
 
         startBtn.disabled = true;
