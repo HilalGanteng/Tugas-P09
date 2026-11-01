@@ -1,0 +1,19 @@
+{
+  "Timer belajar": "Project Akhir Sprint 2",
+  "assets": [
+    {
+      "file": "assets/logo.svg",
+      "type": "image/svg+xml",
+      "size_kb": 2.4,
+      "source": "Aset Mandiri",
+      "license": "MIT"
+    },
+    {
+      "file": "assets/banner.webp",
+      "type": "image/webp",
+      "size_kb": 45.1,
+      "source": "Dokumentasi Pribadi",
+      "license": "CC BY 4.0"
+    }
+  ]
+}
