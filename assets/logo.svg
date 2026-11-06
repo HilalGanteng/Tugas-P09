@@ -6,3 +6,8 @@
   <path d="M32 34 L40 38" stroke="#f59e0b" stroke-width="3.5" stroke-linecap="round"/>
   <circle cx="32" cy="34" r="2.5" fill="#4f46e5"/>
 </svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="7" fill="#1f3b63"/>
+  <path d="M9 22V10l7 7 7-7v12" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
